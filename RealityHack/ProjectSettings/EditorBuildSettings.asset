@@ -15,8 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/viewermode.unity
     guid: e9ee7f8f3b9bbcd43a8b6fd91963cf7f
   - enabled: 1
-    path: Assets/Boba Shop.unity
+    path: Assets/Scenes/bobashop.unity
     guid: 1906bc5e4b83da24d85b94212bf814e0
+  - enabled: 1
+    path: Assets/Scenes/MRTK_scene1.unity
+    guid: b93168437995b4747a0b987c01e91c74
   m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b4f8a22e3897b764b8992e3f48e96d34, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f96892370d053f44bb81a528e76efc95, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0234c738c01b2fe4d8b935b3ce8ef57b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e90ca28f32b4fcc4bb797d09318289b0, type: 2}

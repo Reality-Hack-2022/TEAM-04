@@ -136,9 +136,10 @@ PlayerSettings:
     Others: 1
   bundleVersion: 0.1
   preloadedAssets:
-  - {fileID: 300376197795205433, guid: f96892370d053f44bb81a528e76efc95, type: 2}
-  - {fileID: -6249564087004678823, guid: b4f8a22e3897b764b8992e3f48e96d34, type: 2}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 2303311378681457605, guid: e90ca28f32b4fcc4bb797d09318289b0, type: 2}
+  - {fileID: -4711827554983486529, guid: 0234c738c01b2fe4d8b935b3ce8ef57b, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -594,7 +595,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    14: 
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
@@ -645,7 +647,6 @@ PlayerSettings:
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
-  vcxProjDefaultLanguage: 
   XboxOneProductId: 
   XboxOneUpdateKey: 
   XboxOneSandboxId: 
